@@ -1612,6 +1612,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+  margin-bottom: 15px;
 }
 .col-lg-1,
 .col-lg-10,
@@ -4089,7 +4090,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a:focus,
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: #eee;
+  background-color: #ffffff;
 }
 .nav > li.disabled > a {
   color: #777;
